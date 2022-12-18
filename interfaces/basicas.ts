@@ -1,6 +1,5 @@
-
 (() => {
-    type Hero = {
+    interface Hero {
         name: string,
         age?: number,
         power: number[],
@@ -17,8 +16,5 @@
         age: 24,
         power: [1, 1]
     }
-
-
-
 
 })()

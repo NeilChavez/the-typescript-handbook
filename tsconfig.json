@@ -107,6 +107,6 @@
   //"include": [
   //"tipos/*.ts"          /*  guardare, e quindi compila, nel path tipos/tutti i file che finiscono con .ts*/
   //]                             ed e' l'unico path che includera'
-    "include":["ES6"]
+    "include":["./"]
 
 }
